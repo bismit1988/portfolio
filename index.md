@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### Data Analytics & Visualization Manager/Leader 
+### Profile Summary
 
-Data Analytics and Visualization Lead with **15 years of experience** delivering enterprise-scale Business Intelligence, analytics, data quality, governance and regulatory reporting solutions across banking, treasury and risk domains.
+Data Analytics and Visualization Manager/Lead with **15 years of experience** delivering enterprise-scale Business Intelligence, analytics, data quality, governance and regulatory reporting solutions across banking, treasury and risk domains.
 
 Experienced in building analytics solutions using Tableau, Power BI, SQL, Python and Dataiku, with a focus on stakeholder management, scalable reporting and team leadership. Currently expanding my expertise in Machine Learning, Generative AI and Agentic AI through hands-on projects and applied learning.
 
