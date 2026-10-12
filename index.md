@@ -1,96 +1,102 @@
 ---
 layout: default
 ---
+# Biswamitra Paul
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Data Analytics & Visualization Leader | Applied AI & Agentic AI
 
-[Link to another page](./another-page.html).
+Data Analytics and Visualization professional with **15 years of experience** delivering enterprise-scale Business Intelligence, analytics, data quality, governance and regulatory reporting solutions across banking, treasury and risk domains.
 
-There should be whitespace between paragraphs.
+Experienced in building analytics solutions using Tableau, Power BI, SQL, Python and Dataiku, with a focus on stakeholder management, scalable reporting and team leadership. Currently expanding my expertise in Machine Learning, Generative AI and Agentic AI through hands-on projects and applied learning.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Skills
 
-# Pfoject 1
+**Data Analytics & Visualization:** Tableau, Power BI, Apache Superset, MicroStrategy, Cognos BI, Excel
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Data Engineering & Governance:** SQL, Hive SQL, PostgreSQL, Dataiku, Control-M, Data Quality, Data Modeling, Regulatory Reporting
 
-## Prioject 2
+**Machine Learning & Data Science:** Python, Pandas, NumPy, Scikit-learn, EDA, Regression, Classification, Clustering, Feature Engineering, Model Evaluation
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Generative AI & Agentic AI:** LLMs, RAG, LangChain, LangGraph, MCP, n8n, AI Agent Workflows
 
-### Header 3
+**Leadership:** Team Management, Stakeholder Engagement, Requirements Gathering, Solution Design, Regulatory Compliance
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[GitHub](https://github.com/bismit1988) | [LinkedIn](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+### Enterprise Analytics & Business Intelligence
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**1. Banking Regulatory Risk Data Quality & Reconciliation**
 
-##### Header 5
+Case study covering Liquidity and IRRBB reporting, regulatory metric reconciliation, data quality and governance aligned with BCBS 239 and regulatory requirements.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*Technologies:* Hive SQL, Dataiku, PostgreSQL, Power BI, Tableau
 
-###### Header 6
+**2. Data Quality Exception Classification Framework**
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+A case study of data-quality exception classification and reporting to support monitoring, analysis and remediation.
 
-### There's a horizontal rule below this.
+*Technologies:* Dataiku, Tableau, Power BI, Python
 
-* * *
+**3. Business Intelligence Platform Migration**
 
-### Here is an unordered list:
+Case study of migrating MicroStrategy dashboards to Apache Superset, highlighting enterprise adoption, licensing-cost optimization and platform stability.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*Technologies:* MicroStrategy, Apache Superset, SQL
 
-### And an ordered list:
+### Data Science & Machine Learning
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**4. Regression Analysis — Master Notebook**
 
-### And a nested list:
+A structured notebook covering regression algorithms, assumptions, regularization, model evaluation and model selection.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+*Technologies:* Python, Pandas, NumPy, Scikit-learn, Jupyter
+
+**5. Exploratory Data Analysis & Feature Engineering**
+
+A practical workflow covering missing values, outliers, categorical encoding, numerical scaling and feature preprocessing.
+
+*Technologies:* Python, Pandas, Scikit-learn, Feature-engine
+
+**6. Fraud Detection — Machine Learning**
+
+A machine learning project focused on fraud classification, preprocessing, class imbalance and model evaluation.
+
+*Technologies:* Python, Pandas, Scikit-learn
+
+### Generative AI & Automation
+
+**7. Parallel Data Analysis Agent**
+
+An agentic workflow for data profiling, missing-value analysis, outlier detection, clustering and consolidated analytical insights.
+
+*Technologies:* Python, LangGraph, Pandas, Scikit-learn
+
+**8. AI-Powered Job Matching & Resume Automation**
+
+An automation workflow for processing job descriptions, assessing resume alignment and generating tailored application content.
+
+*Technologies:* n8n, Python/JavaScript, Gemini, Playwright
+
+**9. Agent Control Plane Lite**
+
+A proposed architecture for agent registration, tool access policies, execution controls, audit logging and human approval.
+
+*Technologies:* Python, LangGraph, MCP
+
+**10. Enterprise Document Q&A with RAG**
+
+A document question-answering application that retrieves relevant passages and provides source-grounded responses.
+
+*Technologies:* Python, LangChain, RAG, LLMs
+
+## Contact
+
+I welcome discussions about Data Analytics, Business Intelligence, Data Governance, Machine Learning and Agentic AI.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
+- **Email:** bismit@ymail.com
+- **GitHub:** +91-8335844557
 
 ### Small image
 
