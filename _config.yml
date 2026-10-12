@@ -1,6 +1,15 @@
-title: Biswamitra Paul
-logo: /assets/img/logo.jpeg
-description: Data Analytics & Visualization Manager| 15 Years | Tableau, Power BI, SQL, Python | Banking, Risk & Regulatory Reporting | Data Governance | AI/ML & GenAI |
+
+title: "Biswamitra Paul"
+
+logo: "/assets/img/logo.jpeg"
+
+description: >-
+  Data Analytics & Visualization Leader with 15 years of experience in
+  Business Intelligence, Banking, Risk, Regulatory Reporting and Data Governance.
+  Exploring Machine Learning, Generative AI and Agentic AI through hands-on projects.
+
 show_downloads: false
+
 google_analytics:
-theme: 
+
+theme: jekyll-theme-minimal
