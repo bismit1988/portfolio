@@ -43,8 +43,8 @@ Case study of migrating MicroStrategy dashboards to Apache Superset, highlightin
 
 ### Data Science & Machine Learning Initiatives
 
-**1. Regression Analysis — Master Notebook**
-
+**1. Regression Analysis - Manual Adjustment posting for Liquidity and IRRBB Regulatory Metrices**
+A Case Study to identify/predict statistically supportive Adjustments to replace Manual Adjustment posting for Liquidity and IRRBB Regulatory Metrices
 A structured notebook covering regression algorithms, assumptions, regularization, model evaluation and model selection.
 
 *Technologies:* Python, Pandas, NumPy, Scikit-learn, Jupyter
@@ -54,8 +54,8 @@ A structured notebook covering regression algorithms, assumptions, regularizatio
 A practical workflow covering missing values, outliers, categorical encoding, numerical scaling and feature preprocessing.
 
 *Technologies:* Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Tableau
-<!--
-**6. Fraud Detection — Machine Learning**
+
+<!--**6. Fraud Detection — Machine Learning**
 
 A machine learning project focused on fraud classification, preprocessing, class imbalance and model evaluation.
 
@@ -85,8 +85,7 @@ A proposed architecture for agent registration, tool access policies, execution 
 
 A document question-answering application that retrieves relevant passages and provides source-grounded responses.
 
-*Technologies:* Python, LangChain, RAG, LLMs
--->
+*Technologies:* Python, LangChain, RAG, LLMs-->
 ## Contact
 
 I welcome discussions about Data Analytics, Business Intelligence, Data Governance, Machine Learning and Agentic AI.
@@ -94,8 +93,8 @@ I welcome discussions about Data Analytics, Business Intelligence, Data Governan
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
 - **Email:** bismit@ymail.com
 - **Phone:** +91-8335844557
-<!--
-### Small image
+
+<!--### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
@@ -123,5 +122,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
--->
+```-->
+
