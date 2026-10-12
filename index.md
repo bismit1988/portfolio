@@ -96,7 +96,7 @@ I welcome discussions about Data Analytics, Business Intelligence, Data Governan
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
 - **Email:** bismit@ymail.com
-- **GitHub:** +91-8335844557
+- **Phone:** +91-8335844557
 
 ### Small image
 
