@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# Biswamitra Paul
+# 
 
-### Data Analytics & Visualization Leader | Applied AI & Agentic AI
+### Data Analytics & Visualization Manager/Leader 
 
-Data Analytics and Visualization professional with **15 years of experience** delivering enterprise-scale Business Intelligence, analytics, data quality, governance and regulatory reporting solutions across banking, treasury and risk domains.
+Data Analytics and Visualization Lead with **15 years of experience** delivering enterprise-scale Business Intelligence, analytics, data quality, governance and regulatory reporting solutions across banking, treasury and risk domains.
 
 Experienced in building analytics solutions using Tableau, Power BI, SQL, Python and Dataiku, with a focus on stakeholder management, scalable reporting and team leadership. Currently expanding my expertise in Machine Learning, Generative AI and Agentic AI through hands-on projects and applied learning.
 
@@ -21,10 +21,8 @@ Experienced in building analytics solutions using Tableau, Power BI, SQL, Python
 
 **Leadership:** Team Management, Stakeholder Engagement, Requirements Gathering, Solution Design, Regulatory Compliance
 
-[GitHub](https://github.com/bismit1988) | [LinkedIn](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
 
-
-### Enterprise Analytics & Business Intelligence
+### Enterprise Analytics & Business Intelligence Projects
 
 **1. Banking Regulatory Risk Data Quality & Reconciliation**
 
