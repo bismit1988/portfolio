@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# 
 
 ### Data Analytics & Visualization Manager/Leader 
 
@@ -26,15 +25,15 @@ Experienced in building analytics solutions using Tableau, Power BI, SQL, Python
 
 **1. Banking Regulatory Risk Data Quality & Reconciliation**
 
-Case study covering Liquidity and IRRBB reporting, regulatory metric reconciliation, data quality and governance aligned with BCBS 239 and regulatory requirements.
+Liquidity and IRRBB reporting, regulatory metric (LCR, NSFR, NII, EVE) reconciliation with Balancesheet(PSGL, IFRS), data quality and governance aligned with BCBS 239 and regulatory requirements.
 
-*Technologies:* Hive SQL, Dataiku, PostgreSQL, Power BI, Tableau
+*Technologies:* Hive SQL, Dataiku, Tableau
 
 **2. Data Quality Exception Classification Framework**
 
-A case study of data-quality exception classification and reporting to support monitoring, analysis and remediation.
+Liquidity and IRRBB data-quality exception classification Framework to support reporting, monitoring, analysis and remediation.
 
-*Technologies:* Dataiku, Tableau, Power BI, Python
+*Technologies:* Dataiku, Power BI, Python
 
 **3. Business Intelligence Platform Migration**
 
@@ -42,20 +41,20 @@ Case study of migrating MicroStrategy dashboards to Apache Superset, highlightin
 
 *Technologies:* MicroStrategy, Apache Superset, SQL
 
-### Data Science & Machine Learning
+### Data Science & Machine Learning Initiatives
 
-**4. Regression Analysis — Master Notebook**
+**1. Regression Analysis — Master Notebook**
 
 A structured notebook covering regression algorithms, assumptions, regularization, model evaluation and model selection.
 
 *Technologies:* Python, Pandas, NumPy, Scikit-learn, Jupyter
 
-**5. Exploratory Data Analysis & Feature Engineering**
+**2. Exploratory Data Analysis & Feature Engineering**
 
 A practical workflow covering missing values, outliers, categorical encoding, numerical scaling and feature preprocessing.
 
-*Technologies:* Python, Pandas, Scikit-learn, Feature-engine
-
+*Technologies:* Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Tableau
+<!--
 **6. Fraud Detection — Machine Learning**
 
 A machine learning project focused on fraud classification, preprocessing, class imbalance and model evaluation.
@@ -87,7 +86,7 @@ A proposed architecture for agent registration, tool access policies, execution 
 A document question-answering application that retrieves relevant passages and provides source-grounded responses.
 
 *Technologies:* Python, LangChain, RAG, LLMs
-
+-->
 ## Contact
 
 I welcome discussions about Data Analytics, Business Intelligence, Data Governance, Machine Learning and Agentic AI.
@@ -95,7 +94,7 @@ I welcome discussions about Data Analytics, Business Intelligence, Data Governan
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biswamitra-paul-aa928616/)
 - **Email:** bismit@ymail.com
 - **Phone:** +91-8335844557
-
+<!--
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
@@ -125,3 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
